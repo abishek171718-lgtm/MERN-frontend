@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e6f8e8"/><stop offset="1" stop-color="#fff4d8"/></linearGradient><filter id="s" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="13" stdDeviation="11" flood-color="#4d7357" flood-opacity=".2"/></filter></defs>
+  <rect width="640" height="480" rx="32" fill="url(#bg)"/><circle cx="514" cy="91" r="64" fill="#fff" opacity=".52"/><path d="M0 361q150-42 320 0t320 0v119H0z" fill="#a6d88c" opacity=".62"/>
+  <g filter="url(#s)">
+    <path d="M131 325V164q0-24 24-24h330q24 0 24 24v161" fill="none" stroke="#ff8b6d" stroke-width="18" stroke-linecap="round"/>
+    <path d="M163 324V177h314v147" fill="#fff" fill-opacity=".26" stroke="#fff" stroke-width="8"/>
+    <path d="M147 329h375" stroke="#fff" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="334" cy="294" r="77" fill="#fff" stroke="#d4dce4" stroke-width="6"/>
+    <path d="M334 248l28 20-11 34h-34l-11-34zm-47-17 29-15 18 32-30 18-28-20zm94 0 28 15-17 35-30-18zm-55 71h50l20 30-26 28-35-12-28 12-25-28zm-47-4 22 4 14 35-17 23-26-13-7-30zm103 0 22-4 14 19-7 30-26 13-17-23z" fill="#34455f"/>
+    <path d="M224 332v37m220-37v37" stroke="#54667c" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <path d="M103 127l7 15 16 2-12 10 4 16-15-8-14 8 3-16-12-10 16-2z" fill="#ffc34c"/><circle cx="528" cy="219" r="12" fill="#78c9e8"/>
+</svg>

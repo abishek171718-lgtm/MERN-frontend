@@ -1,0 +1,3 @@
+import { useState } from "react";
+import { NavLink } from "react-router-dom";
+export default function Navbar(){ const [open,setOpen]=useState(false); const links=[["Home","/"],["About","/about"],["Categories","/categories"],["Products","/products"],["Contact","/contact"]]; return <nav className={`navbar ${open?"navbar-open":""}`}><button className="menu-button" type="button" onClick={()=>setOpen(!open)} aria-expanded={open}><span></span><span></span><span></span></button><div className="nav-links">{links.map(([label,path])=> <NavLink key={path} to={path} onClick={()=>setOpen(false)}>{label}</NavLink>)}</div></nav>; }

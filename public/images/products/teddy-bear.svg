@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f3"/><stop offset="1" stop-color="#ffe2c8"/></linearGradient><linearGradient id="fur" x2="1" y2="1"><stop stop-color="#d99a66"/><stop offset="1" stop-color="#a86649"/></linearGradient><filter id="s" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#915445" flood-opacity=".2"/></filter></defs>
+  <rect width="640" height="480" rx="32" fill="url(#bg)"/><circle cx="95" cy="98" r="56" fill="#fff" opacity=".58"/><circle cx="546" cy="365" r="88" fill="#ffd2db" opacity=".62"/>
+  <path d="M115 395q205-53 411 0" fill="none" stroke="#e9b9a2" stroke-width="20" stroke-linecap="round" opacity=".32"/>
+  <g filter="url(#s)">
+    <circle cx="226" cy="148" r="53" fill="url(#fur)"/><circle cx="414" cy="148" r="53" fill="url(#fur)"/><circle cx="226" cy="148" r="27" fill="#efb6a2"/><circle cx="414" cy="148" r="27" fill="#efb6a2"/>
+    <ellipse cx="320" cy="325" rx="145" ry="118" fill="url(#fur)"/><ellipse cx="320" cy="201" rx="127" ry="117" fill="url(#fur)"/>
+    <ellipse cx="320" cy="236" rx="69" ry="51" fill="#f5d6b3"/><ellipse cx="320" cy="227" rx="20" ry="15" fill="#46332e"/><path d="M320 242q-16 21-35 2m35-2q16 21 35 2" fill="none" stroke="#754c3c" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="274" cy="196" rx="10" ry="13" fill="#352b2a"/><ellipse cx="366" cy="196" rx="10" ry="13" fill="#352b2a"/><circle cx="270" cy="192" r="3" fill="#fff"/><circle cx="362" cy="192" r="3" fill="#fff"/>
+    <ellipse cx="223" cy="323" rx="52" ry="67" fill="#c88860" transform="rotate(-32 223 323)"/><ellipse cx="417" cy="323" rx="52" ry="67" fill="#c88860" transform="rotate(32 417 323)"/>
+    <ellipse cx="266" cy="412" rx="62" ry="34" fill="#b87554"/><ellipse cx="374" cy="412" rx="62" ry="34" fill="#b87554"/>
+    <path d="M282 279l38 22 38-22-10 54h-56z" fill="#ff7895"/><circle cx="320" cy="302" r="12" fill="#ffd166"/>
+  </g>
+  <path d="M98 188l7 14 15 2-11 10 3 15-14-7-13 7 3-15-12-10 15-2z" fill="#ffc34c"/><circle cx="524" cy="113" r="11" fill="#72cee9"/>
+</svg>

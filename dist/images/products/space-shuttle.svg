@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#283d76"/><stop offset="1" stop-color="#7385bf"/></linearGradient><linearGradient id="ship" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#c9e9ff"/></linearGradient><filter id="s" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="16" stdDeviation="12" flood-color="#182250" flood-opacity=".45"/></filter></defs>
+  <rect width="640" height="480" rx="32" fill="url(#bg)"/><circle cx="492" cy="100" r="70" fill="#ffd166" opacity=".9"/><circle cx="492" cy="100" r="84" fill="#ffd166" opacity=".16"/>
+  <circle cx="121" cy="88" r="3" fill="#fff"/><circle cx="192" cy="136" r="5" fill="#fff"/><circle cx="545" cy="245" r="4" fill="#fff"/><circle cx="112" cy="309" r="4" fill="#fff"/><circle cx="454" cy="355" r="3" fill="#fff"/>
+  <path d="M0 395q125-60 250 0t390 0v85H0z" fill="#43558c" opacity=".65"/>
+  <g filter="url(#s)" transform="rotate(-18 320 250)">
+    <path d="M320 90q52 68 67 178l-14 109h-106l-14-109q15-110 67-178z" fill="url(#ship)" stroke="#aacbe3" stroke-width="7"/>
+    <path d="M267 251l-84 88 93-15zm106 0 84 88-93-15z" fill="#ff806f"/>
+    <path d="M284 341h72l-12 53h-48z" fill="#e75962"/><path d="M302 393l18 54 18-54" fill="#ffbc5a"/>
+    <ellipse cx="320" cy="220" rx="26" ry="37" fill="#72c8ea" stroke="#fff" stroke-width="8"/><path d="M269 282h102" stroke="#e45363" stroke-width="13"/><path d="M295 308h50" stroke="#6e8cb0" stroke-width="7"/>
+  </g>
+  <path d="M117 195l7 14 16 2-12 10 4 16-15-8-15 8 4-16-12-10 16-2z" fill="#fff"/>
+</svg>

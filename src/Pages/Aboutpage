@@ -1,0 +1,10 @@
+import React from "react";
+
+function Aboutpage(){
+    return(
+        <h1>Welcome to Aboutpage</h1>
+
+    );
+}
+
+export default Aboutpage;0
